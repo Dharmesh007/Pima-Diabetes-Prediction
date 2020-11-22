@@ -11,13 +11,13 @@ The datasets consists of several medical predictor variables and one target vari
 INSPIRATION
 Can you build a machine learning model to accurately predict whether or not the patients in the dataset have diabetes or not?
 
-Columns:¶
-Pregnancies: Number of times pregnant
-Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
-BloodPressure: Diastolic blood pressure (mm Hg)
-SkinThickness: Triceps skin fold thickness (mm)
-Insulin: 2-Hour serum insulin (
-BMI: Body mass index (Weight (kg)/(Height (m)^2))
-DiabetesPedigreeFunction: Diabetes pedigree function
-Age: Age (years)
-Outcome: Class variable (0 or 1)
+Columns:
+1) Pregnancies: Number of times pregnant
+2) Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+3) BloodPressure: Diastolic blood pressure (mm Hg)
+4) SkinThickness: Triceps skin fold thickness (mm)
+5) Insulin: 2-Hour serum insulin (
+6) BMI: Body mass index (Weight (kg)/(Height (m)^2))
+7) DiabetesPedigreeFunction: Diabetes pedigree function
+8) Age: Age (years)
+9) Outcome: Class variable (0 or 1)
